@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>High Performance Computing on Fei Hua</title>
+    <link>https://huafei1137.github.io/tags/high-performance-computing/</link>
+    <description>Recent content in High Performance Computing on Fei Hua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Fei Hua</copyright>
+    <lastBuildDate>Thu, 15 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://huafei1137.github.io/tags/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallel Batched Heap on GPU</title>
+      <link>https://huafei1137.github.io/project/gpu/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/project/gpu/</guid>
+      <description>In this paper, we implement Parallel Batch Heap implement on GPU based on some very practical benchmark(like knapsacks,dijkstra). the most challenging part is that Thread safely on Bottom-up and Top-down insertion/deletions, and optimization with early stops Unlike the previous work, we can perfectly deal with the partial batch by utilizing a partial buffer.</description>
+    </item>
+    
+  </channel>
+</rss>

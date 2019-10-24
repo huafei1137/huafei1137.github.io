@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Hua on Fei Hua</title>
+    <link>https://huafei1137.github.io/</link>
+    <description>Recent content in Fei Hua on Fei Hua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Fei Hua</copyright>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Optimize Surface Code Braiding</title>
+      <link>https://huafei1137.github.io/publication/udacu/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/publication/udacu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding CUDA binary</title>
+      <link>https://huafei1137.github.io/publication/decoding-cuda/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/publication/decoding-cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized surface code</title>
+      <link>https://huafei1137.github.io/project/electric-field/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/project/electric-field/</guid>
+      <description>&lt;p&gt;In this paper, we utilizing the high-province error correction surface code and simulate the real quantum
+circuit in surface code. Our goal is to schedule the braiding operations by using IBM qiskit to generate the critical path for any given circuit using
+&lt;a href=&#34;https://arxiv.org/pdf/1712.04722.pdf&#34; target=&#34;_blank&#34;&gt;Zulehner’s QASM Mapping&lt;/a&gt; to generate the DAG. And based on braiding constraint to find the perfect scheduling for surface code. Compared to the critical path, we find our schedule can very close to the critical path.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallel Batched Heap on GPU</title>
+      <link>https://huafei1137.github.io/project/gpu/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/project/gpu/</guid>
+      <description>&lt;p&gt;In this paper, we implement Parallel Batch Heap implement on GPU based on some very practical benchmark(like knapsacks,dijkstra).
+ the most challenging part is that Thread safely on Bottom-up and Top-down insertion/deletions, and optimization with early stops
+Unlike the previous work, we can perfectly deal with the partial batch by utilizing a partial buffer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

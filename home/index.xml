@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fei Hua</title>
+    <link>https://huafei1137.github.io/home/</link>
+    <description>Recent content in Homes on Fei Hua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Fei Hua</copyright>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://huafei1137.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://huafei1137.github.io/home/about/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/about/</guid>
+      <description>About me: I am a second-year PhD student in Computer Science, Rutgers University, with the honor to be supervised by Prof. Eddy.Z Zhang. From Sep. 2014 to Dec. 2016 I did my M.S. in Electrical Engineering at Washington University in st.louis,
+My research interests are Quantum Computing, compiler, high performance computing.
+[View my CV] </description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://huafei1137.github.io/home/publications_selected/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://huafei1137.github.io/home/publications/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://huafei1137.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://huafei1137.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://huafei1137.github.io/home/contact/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://huafei1137.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

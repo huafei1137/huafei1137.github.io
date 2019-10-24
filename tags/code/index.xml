@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Fei Hua</title>
+    <link>http://localhost:1313/tags/code/</link>
+    <description>Recent content in Code on Fei Hua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Fei Hua</copyright>
+    <lastBuildDate>Thu, 05 Feb 2015 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools for Axis Label Alignment in MATLAB</title>
+      <link>http://localhost:1313/post/matlab-axis-align/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/matlab-axis-align/</guid>
+      <description>Checkout the code on File Exchange or Github
+This is a simple MATLAB function for axis label alignment. If you have ever struggled with the label alignment issue in MATLAB&amp;rsquo;s 3-D plots &amp;mdash; by default axis labels are placed horizontally no matter how you rotate the plot &amp;mdash; here is a simple fix.
+It still works when Projection mode is Perspective or when DataAspectRatio is not [1 1 1].</description>
+    </item>
+    
+  </channel>
+</rss>
